@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahimchowdhurymiraj
 - 👀 I’m interested in software
-- 🌱 I’m currently learning github
+- 🌱 I’m currently learning git
 - ⚡ Fun fact: I am a quick learning noob 
 
 <!---
