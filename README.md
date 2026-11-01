@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34229330/README.md)
+[README.md](https://github.com/user-attachments/files/34229402/README.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:031a13,50:0a4d3a,100:14805e&height=200&section=header&text=Mahim%20Chowdhury%20Miraj&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Android%20%E2%80%A2%20IoT%20%E2%80%A2%20Embedded%20Systems&descSize=16&descAlignY=58" alt="header" width="100%"/>
@@ -49,8 +49,10 @@ I'm an **Android app developer** and software enthusiast who loves turning ideas
 <div align="center">
 
 <a href="https://github.com/mahimchowdhurymiraj/ESPDeck">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahimchowdhurymiraj&repo=ESPDeck&bg_color=0d1117&title_color=34d399&icon_color=10b981&text_color=c9d1d9&border_color=0a4d3a" alt="ESPDeck" />
+  <img src="https://img.shields.io/badge/ESPDeck-DIY%20Stream%20Deck-0a4d3a?style=for-the-badge&logo=github&logoColor=34d399&labelColor=0d1117" alt="ESPDeck" />
 </a>
+<img src="https://img.shields.io/github/stars/mahimchowdhurymiraj/ESPDeck?style=for-the-badge&logo=github&logoColor=white&color=14805e&labelColor=0d1117" alt="Stars" />
+<img src="https://img.shields.io/github/languages/top/mahimchowdhurymiraj/ESPDeck?style=for-the-badge&color=14805e&labelColor=0d1117" alt="Language" />
 
 </div>
 
@@ -85,8 +87,10 @@ I'm an **Android app developer** and software enthusiast who loves turning ideas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahimchowdhurymiraj&show_icons=true&bg_color=0d1117&title_color=34d399&icon_color=10b981&text_color=c9d1d9&border_color=0a4d3a&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahimchowdhurymiraj&layout=compact&bg_color=0d1117&title_color=34d399&text_color=c9d1d9&border_color=0a4d3a" alt="Top languages" />
+![Followers](https://img.shields.io/github/followers/mahimchowdhurymiraj?style=for-the-badge&logo=github&logoColor=white&color=0a4d3a&labelColor=0d1117)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-8-0a4d3a?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+![ESPDeck Stars](https://img.shields.io/github/stars/mahimchowdhurymiraj/ESPDeck?style=for-the-badge&logo=github&logoColor=white&color=0a4d3a&labelColor=0d1117)
+
 
 <img src="https://streak-stats.demolab.com?user=mahimchowdhurymiraj&background=0D1117&ring=10B981&fire=34D399&currStreakLabel=34D399&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=0A4D3A&border=0A4D3A" alt="GitHub streak" />
 
